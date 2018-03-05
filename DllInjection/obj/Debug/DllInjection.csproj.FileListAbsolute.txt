@@ -1,0 +1,10 @@
+D:\Programming\Git\DllInjection\DllInjection\obj\Debug\DllInjection.csprojResolveAssemblyReference.cache
+D:\Programming\Git\DllInjection\DllInjection\obj\Debug\DllInjection.Form1.resources
+D:\Programming\Git\DllInjection\DllInjection\obj\Debug\DllInjection.Properties.Resources.resources
+D:\Programming\Git\DllInjection\DllInjection\obj\Debug\DllInjection.csproj.GenerateResource.Cache
+D:\Programming\Git\DllInjection\DllInjection\obj\Debug\DllInjection.csproj.CoreCompileInputs.cache
+D:\Programming\Git\DllInjection\DllInjection\bin\Debug\DllInjection.exe.config
+D:\Programming\Git\DllInjection\DllInjection\bin\Debug\DllInjection.exe
+D:\Programming\Git\DllInjection\DllInjection\bin\Debug\DllInjection.pdb
+D:\Programming\Git\DllInjection\DllInjection\obj\Debug\DllInjection.exe
+D:\Programming\Git\DllInjection\DllInjection\obj\Debug\DllInjection.pdb
